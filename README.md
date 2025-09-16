@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Ninea  
 
-<!--
-**ninea-anasovi/ninea-anasovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist & AI Engineer with 3+ years of experience in **Machine Learning, Computer Vision, and NLP**.  
+💡 Recently focused on **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.  
+🌍 Currently seeking opportunities in **international tech hubs** (relocating to Portugal 🇵🇹).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 What I Do  
+- 🔹 Design and deploy **end-to-end AI pipelines** (training → deployment → scaling)  
+- 🔹 Build **automation systems** (CV/job application pipelines, web crawlers, AI agents)  
+- 🔹 Create **production-ready ML solutions** for real-world impact  
+- 🔹 Develop cross-platform apps with **Flutter + Supabase**  
+
+---
+
+## ⚡ Tech Stack  
+
+**Programming & Frameworks**  
+`Python` · `Flutter` · `Dart` · `JavaScript` · `Node.js`  
+
+**AI & Data**  
+`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `scikit-learn`  
+
+**Databases & Cloud**  
+`PostgreSQL` · `Supabase` · `Firebase` · `AWS`  
+
+**Tools**  
+`Git` · `Docker` · `Linux` · `VS Code`  
+
+---
+
+## 📊 GitHub Insights  
+
+![](https://github-readme-stats.vercel.app/api?username=Ninea&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ninea&theme=tokyonight)  
+
+---
+
+## 🌱 Current Projects  
+- 🤖 **AI-powered product crawler** with **RAG + Agents** (Georgian product search assistant)  
+- 📱 **Cross-platform app** for personalized AI Chat
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ninea)  
+- ✉️ [Email](mailto:ninea.anasovi@gmail.com)  
+
+
+---
+
+✨ _“Turning complex data into simple, impactful solutions.”_ ✨
