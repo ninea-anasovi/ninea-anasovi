@@ -2,7 +2,7 @@
 
 🚀 Data Scientist & AI Engineer with 3+ years of experience in **Machine Learning, Computer Vision, and NLP**.  
 💡 Recently focused on **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.  
-🌍 Currently seeking opportunities in **international tech hubs** (relocating to Portugal 🇵🇹).  
+🌍 Currently seeking opportunities in **international tech hubs**.  
 
 ---
 
