@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Insights  
 
-![](https://github-readme-stats.vercel.app/api?username=Ninea&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ninea&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api?username=ninea-anasovi&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ninea-anasovi&theme=tokyonight)  
 
 ---
 
