@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 What I Do  
 - 🔹 Design and deploy **end-to-end AI pipelines** (training → deployment → scaling)  
-- 🔹 Build **automation systems** (CV/job application pipelines, web crawlers, AI agents)  
+- 🔹 Build **automation systems** (RAG, web crawlers, AI agents)  
 - 🔹 Create **production-ready ML solutions** for real-world impact  
 - 🔹 Develop cross-platform apps with **Flutter + Supabase**  
 
