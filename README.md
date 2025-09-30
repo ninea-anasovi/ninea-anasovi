@@ -23,7 +23,7 @@
 `PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `scikit-learn`  
 
 **Databases & Cloud**  
-`PostgreSQL` · `Supabase` · `Firebase` · `AWS`  
+`PostgreSQL` · `Supabase` · `Firebase` · `GCP`  
 
 **Tools**  
 `Git` · `Docker` · `Linux` · `VS Code`  
