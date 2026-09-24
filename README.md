@@ -1,53 +1,150 @@
-# 👋 Hi, I'm Ninea  
+# Ninéa Anasovi
 
-🚀 Data Scientist & AI Engineer with 4+ years of experience in **Machine Learning, Computer Vision, and NLP**.  
-💡 Recently focused on **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.  
-🌍 Currently seeking opportunities in **international tech hubs**.  
+### Senior AI Engineer building production-grade LLM, RAG & Agentic AI systems.
 
----
+I design and build end-to-end AI systems spanning **LLM applications, Retrieval-Augmented Generation (RAG), agent orchestration, backend architecture, evaluation, and cloud deployment**.
 
-## 🧑‍💻 What I Do  
-- 🔹 Design and deploy **end-to-end AI pipelines** (training → deployment → scaling)  
-- 🔹 Build **automation systems** (RAG, web crawlers, AI agents)  
-- 🔹 Create **production-ready ML solutions** for real-world impact  
-- 🔹 Develop cross-platform apps with **Flutter + Supabase**  
+My background combines **AI engineering, machine learning, computer vision, medical imaging, and software engineering**.
+
+Currently focused on turning LLM capabilities into reliable production systems.
 
 ---
 
-## ⚡ Tech Stack  
+## 🧠 What I Build
 
-**Programming & Frameworks**  
-`Python` · `Flutter` · `Dart` · `JavaScript` · `Node.js`  
-
-**AI & Data**  
-`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `scikit-learn`  
-
-**Databases & Cloud**  
-`PostgreSQL` · `Supabase` · `Firebase` · `GCP`  
-
-**Tools**  
-`Git` · `Docker` · `Linux` · `VS Code`  
+- Production **LLM applications**
+- **RAG architectures** and retrieval pipelines
+- **Agentic AI** and multi-step workflows
+- AI orchestration and model integration
+- LLM evaluation and regression testing
+- Python / FastAPI AI backends
+- AI-powered search and knowledge systems
+- Computer vision and applied ML systems
+- End-to-end AI application architecture
 
 ---
 
-## 📊 GitHub Insights  
+## ⚙️ Core Stack
 
-![](https://github-readme-stats.vercel.app/api?username=ninea-anasovi&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ninea-anasovi&theme=tokyonight)  
+### Generative AI
+
+`LLMs` · `RAG` · `AI Agents` · `Agentic AI` · `Prompt Engineering`
+`LangGraph` · `LangChain` · `Hugging Face`
+
+### Retrieval & Search
+
+`Vector Search` · `Embeddings` · `Semantic Search`
+`Hybrid Search` · `BM25` · `Reranking` · `RAG Evaluation`
+
+### Engineering
+
+`Python` · `FastAPI` · `REST APIs` · `Docker`
+`Git` · `CI/CD` · `JavaScript` · `TypeScript`
+
+### ML / AI
+
+`PyTorch` · `TensorFlow` · `scikit-learn`
+`Computer Vision` · `OpenCV` · `NLP`
+
+### Cloud & Data
+
+`GCP` · `Vertex AI` · `Cloud Run`
+`PostgreSQL` · `MySQL` · `Firebase`
 
 ---
 
-## 🌱 Current Projects  
-- 🤖 **AI-powered product crawler** with **RAG + Agents** (Georgian product search assistant)  
-- 📱 **Cross-platform app** for personalized AI Chat
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered Search & RAG
+
+A production-oriented AI search system combining:
+
+- Retrieval-Augmented Generation
+- Semantic search
+- Vector retrieval
+- LLM-powered responses
+- Agentic workflows
+- Python backend services
+
+**Focus:** retrieval quality, orchestration, grounded generation and scalable AI architecture.
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ninea)  
-- ✉️ [Email](mailto:ninea.anasovi@gmail.com)  
+## 🧩 Agentic AI Systems
 
+Experiments and production-inspired implementations exploring:
+
+- LangGraph
+- LangChain
+- Tool calling
+- Multi-step reasoning workflows
+- Agent orchestration
+- Model routing
+- Evaluation
+
+The goal is not simply to make an agent work — but to make the surrounding system **observable, testable and reliable**.
 
 ---
 
-✨ _“Turning complex data into simple, impactful solutions.”_ ✨
+## 📊 LLM / RAG Evaluation
+
+A collection of evaluation experiments for AI systems covering:
+
+- Retrieval precision
+- Retrieval recall
+- MRR
+- Citation accuracy
+- Golden datasets
+- Regression testing
+- LLM-as-a-Judge approaches
+
+---
+
+## 🔬 Computer Vision & Medical Imaging
+
+Earlier work in applied machine learning and scientific computing, including:
+
+- Medical image processing
+- PET/MR imaging
+- Image segmentation
+- Computer vision
+- Digital signal processing
+- Scientific data analysis
+
+---
+
+# 🏗️ Engineering Philosophy
+
+I believe production AI is much more than choosing a model.
+
+A reliable AI system requires:
+
+**Data → Retrieval → Models → Orchestration → Evaluation → APIs → Observability → Deployment**
+
+I focus on designing the system around the model so that AI applications are:
+
+- Reliable
+- Testable
+- Maintainable
+- Observable
+- Scalable
+
+---
+
+# 📈 Currently Exploring
+
+- Advanced RAG architectures
+- Agentic workflows
+- LLM evaluation
+- Model routing
+- AI observability
+- Retrieval optimization
+- Production AI infrastructure
+
+---
+
+# 🔗 Connect
+
+**LinkedIn:** https://www.linkedin.com/in/ninea
+
+**Email:** ninea.anasovi@gmail.com
