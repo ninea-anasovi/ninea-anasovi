@@ -1,6 +1,6 @@
 # Ninéa Anasovi
 
-### Senior AI Engineer building production-grade LLM, & Agentic AI systems.
+### Senior AI Engineer building production-grade LLM & Agentic AI systems.
 
 I design and build end-to-end AI systems spanning **LLM applications, Retrieval-Augmented Generation (RAG), agent orchestration, backend architecture, evaluation, and cloud deployment**.
 
